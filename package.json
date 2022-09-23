@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/shobeee/ss#readme",
   "devDependencies": {
-    "hint": "^7.1.2"
+    "hint": "^7.1.2",
+    "stylelint": "^13.13.1"
   }
 }
